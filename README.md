@@ -11,4 +11,5 @@ The main function to run CATE is neuroCate_cate.m, but, for new users, we recomm
 Since the demo dataset is large, please request it via email bieqa@nus.edu.sg. Please see the illustration of the method in NeuroCate.pdf.
 
 Reference:
+
 Bryan Guillaume, Changqing Wang, Joann Poh, Mo Jun Shen, Mei Lyn Ong, Pei Fang, Neerja Karnani, Michael Meaney, Anqi Qiu*, “Improving mass-univariate analysis of neuroimaging data by modelling important unknown covariates: application to Epigenome-Wide Association Studies”, Neuroimage, 173:57-71, 2018.
